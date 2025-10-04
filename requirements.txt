@@ -1,0 +1,32 @@
+# --- Core Python & Notebooks ---
+jupyter
+notebook
+jupyterlab
+ipykernel
+python-dotenv
+
+# --- Data Manipulation & Analysis ---
+pandas
+numpy
+pyarrow
+
+# --- Geospatial / Map ---
+geopandas
+shapely
+fiona
+rasterio
+folium
+osmnx
+h3
+
+# --- Data Access & APIs ---
+requests
+tqdm
+python-dotenv
+
+# --- Visualization ---
+matplotlib
+plotly
+
+# --- Optional / Extended tools ---
+openpyxl     # leitura de planilhas Excel
